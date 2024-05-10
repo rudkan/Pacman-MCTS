@@ -18,7 +18,7 @@ The repository contains all the necessary modules to run the Pacman CTF game wit
 To get started with this project, please follow the setup instructions in the INSTALL.md file. This will guide you through the process of installing all required dependencies and setting up the environment to run the game.
 
 # Contribution
-We welcome contributions from the community! Whether it's improving the algorithm, enhancing the AI’s strategies, or fixing bugs, please feel free to fork the repository and submit your pull requests. Check out the CONTRIBUTING.md file for more information on how to contribute.
+We welcome contributions from the community! Whether it's improving the algorithm, enhancing the AI’s strategies, or fixing bugs, please feel free to fork the repository and submit your pull requests.
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
